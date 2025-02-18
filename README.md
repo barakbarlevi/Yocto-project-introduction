@@ -4,6 +4,6 @@ Please refer to the full [documentation](https://drive.google.com/file/d/1juohLD
 This custom-layer for the STM32MP157D-DK1, built on top of core-image-minimal, enables:
 1. The use of one of its I2C buses to interface with a TMP117 Qwiic temperature sensor.
 2. Support for Wi-Fi connectivity using the TP-Link TL-WN725N USB Wi-Fi adapter.
-
-
-![Image Description](https://drive.google.com/uc?export=view&id=1sdrVddBNSiBCJCtSFF-OIwuqUUXIBqRF)
+<br><br>
+![Image](https://github.com/user-attachments/assets/876a1a2b-aa66-4b51-9fc0-d82edfd1d84b)
+![Image](https://github.com/user-attachments/assets/7eb29b22-ad64-4329-b402-f032e1b04764)
