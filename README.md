@@ -1,4 +1,4 @@
-This repo contains a custom layer, as well as a few configuration files, created through following [Shawn Hymel's tutorial](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpG31Y7RPB) on embedded linux and the Yocto project.  
+This repo contains a custom layer, as well as a few additional configuration files, created through following [Shawn Hymel's tutorial](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpG31Y7RPB) on embedded linux and the Yocto project.  
 Please refer to the full [documentation](https://drive.google.com/file/d/1juohLDlALFVyD9p2p7jBX7WsUohJ2jLh/view?usp=drive_link) that I made for this work, to get a full notion of the build process and dependencies. The work also details Yocto basic concepts, related to and often extended beyond, the implementation that I made to this online series of video lectures.
 
 This custom-layer for the STM32MP157D-DK1, built on top of core-image-minimal, enables:
